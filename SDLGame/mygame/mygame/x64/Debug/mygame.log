@@ -1,0 +1,4 @@
+﻿  game.cpp
+D:\KULIAH\SDLGame\mygame\mygame\game.cpp(67,19): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\KULIAH\SDLGame\mygame\mygame\game.cpp(68,19): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  mygame.vcxproj -> D:\KULIAH\SDLGame\mygame\x64\Debug\mygame.exe
